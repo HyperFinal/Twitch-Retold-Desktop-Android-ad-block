@@ -77,8 +77,6 @@
 
 ## News from the developer
 
-**A Twitch Retold update is in preparation.** Release details and timing will be shared when confirmed. Follow [Twitch Retold releases](https://github.com/HyperFinal/Twitch-Retold-Desktop-Android/releases) for official updates.
-
 **The Coterie beta is now available to download for Windows.** Coterie is another project from the creator of Twitch Retold. Coterie is a Windows workspace for AI coding CLIs: one model plans, others build in parallel, and a different model reviews the changes.
 
 The Twitch Retold team thanks everyone who downloads Coterie!
