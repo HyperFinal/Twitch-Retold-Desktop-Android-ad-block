@@ -49,7 +49,7 @@
       }
     },
     {
-      "id": "2026-10-20-coterie-private-beta",
+      "id": "2026-10-26-coterie-beta-download",
       "level": "news",
       "priority": 70,
       "platforms": [
@@ -67,31 +67,31 @@
         "pt": "Da OfflineStudio"
       },
       "title": {
-        "it": "Sviluppi software? Scopri Coterie",
-        "en": "Building software? Meet Coterie",
-        "fr": "Vous développez ? Découvrez Coterie",
-        "de": "Du entwickelst Software? Entdecke Coterie",
-        "es": "¿Desarrollas software? Descubre Coterie",
-        "pt": "Desenvolve software? Conheça o Coterie"
+        "it": "Coterie: la beta è disponibile da scaricare",
+        "en": "Coterie beta is now available to download",
+        "fr": "La bêta de Coterie est disponible en téléchargement",
+        "de": "Die Coterie-Beta ist jetzt zum Download verfügbar",
+        "es": "La beta de Coterie ya está disponible para descargar",
+        "pt": "A versão beta do Coterie já está disponível para download"
       },
       "body": {
-        "it": "Un altro progetto del creatore di Twitch Retold: Coterie coordina i CLI di coding AI su Windows. Un modello pianifica, altri implementano in parallelo e un modello diverso revisiona le modifiche. Beta privata gratuita su richiesta: https://offlinestudio.eu/coterie. Il pulsante apre la presentazione e il link al sito su GitHub.",
-        "en": "Another project from the creator of Twitch Retold: Coterie coordinates AI coding CLIs on Windows. One model plans, others build in parallel, and a different model reviews changes. Free private beta on request: https://offlinestudio.eu/coterie. The button opens the overview and website link on GitHub.",
-        "fr": "Un autre projet du créateur de Twitch Retold : Coterie coordonne les CLI de code IA sous Windows. Un modèle planifie, d’autres développent en parallèle et un modèle différent révise les modifications. Bêta privée gratuite sur demande : https://offlinestudio.eu/coterie. Le bouton ouvre la présentation et le lien du site sur GitHub.",
-        "de": "Ein weiteres Projekt vom Entwickler von Twitch Retold: Coterie koordiniert KI-Coding-CLIs unter Windows. Ein Modell plant, andere entwickeln parallel, ein anderes prüft die Änderungen. Kostenlose private Beta auf Anfrage: https://offlinestudio.eu/coterie. Der Button öffnet die Übersicht mit Website-Link auf GitHub.",
-        "es": "Otro proyecto del creador de Twitch Retold: Coterie coordina los CLI de programación con IA en Windows. Un modelo planifica, otros desarrollan en paralelo y otro revisa los cambios. Beta privada gratuita bajo solicitud: https://offlinestudio.eu/coterie. El botón abre la presentación y el enlace al sitio en GitHub.",
-        "pt": "Outro projeto do criador do Twitch Retold: Coterie coordena CLIs de programação com IA no Windows. Um modelo planeja, outros desenvolvem em paralelo e outro revisa as alterações. Beta privada gratuita mediante solicitação: https://offlinestudio.eu/coterie. O botão abre a apresentação e o link do site no GitHub."
+        "it": "La beta di Coterie per Windows è ora disponibile da scaricare. Il progetto del creatore di Twitch Retold coordina i CLI di coding AI per pianificare, sviluppare in parallelo e revisionare le modifiche. Download e istruzioni: https://offlinestudio.eu/coterie#download. Il pulsante apre l’annuncio con il link al download su GitHub.",
+        "en": "The Coterie beta for Windows is now available to download. This project from the creator of Twitch Retold coordinates AI coding CLIs to plan, build in parallel and review changes. Download and instructions: https://offlinestudio.eu/coterie#download. The button opens the announcement with the download link on GitHub.",
+        "fr": "La bêta de Coterie pour Windows est disponible en téléchargement. Ce projet du créateur de Twitch Retold coordonne les CLI de code IA pour planifier, développer en parallèle et réviser les modifications. Téléchargement et instructions : https://offlinestudio.eu/coterie#download. Le bouton ouvre l’annonce avec le lien de téléchargement sur GitHub.",
+        "de": "Die Coterie-Beta für Windows steht jetzt zum Download bereit. Das Projekt vom Entwickler von Twitch Retold koordiniert KI-Coding-CLIs zum Planen, parallelen Entwickeln und Prüfen von Änderungen. Download und Anleitung: https://offlinestudio.eu/coterie#download. Der Button öffnet die Ankündigung mit dem Download-Link auf GitHub.",
+        "es": "La beta de Coterie para Windows ya se puede descargar. Este proyecto del creador de Twitch Retold coordina los CLI de programación con IA para planificar, desarrollar en paralelo y revisar los cambios. Descarga e instrucciones: https://offlinestudio.eu/coterie#download. El botón abre el anuncio con el enlace de descarga en GitHub.",
+        "pt": "A versão beta do Coterie para Windows já está disponível para download. Este projeto do criador do Twitch Retold coordena CLIs de programação com IA para planejar, desenvolver em paralelo e revisar alterações. Download e instruções: https://offlinestudio.eu/coterie#download. O botão abre o anúncio com o link de download no GitHub."
       },
       "cta": {
         "label": {
-          "it": "Scopri Coterie su GitHub",
-          "en": "Explore Coterie on GitHub",
-          "fr": "Découvrir Coterie sur GitHub",
-          "de": "Coterie auf GitHub entdecken",
-          "es": "Descubre Coterie en GitHub",
-          "pt": "Conheça o Coterie no GitHub"
+          "it": "Beta e download",
+          "en": "Beta and download",
+          "fr": "Bêta et téléchargement",
+          "de": "Beta und Download",
+          "es": "Beta y descarga",
+          "pt": "Beta e download"
         },
-        "url": "https://github.com/CoterieApp/Coterie"
+        "url": "https://github.com/HyperFinal/Twitch-Retold-Desktop-Android-ad-block#news-from-the-developer"
       }
     },
     {
