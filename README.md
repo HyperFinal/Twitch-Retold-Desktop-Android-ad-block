@@ -9,6 +9,7 @@
 
 [![Desktop](https://img.shields.io/github/v/release/HyperFinal/Twitch-Retold-Desktop-Android?filter=v*&color=9146FF&label=desktop&style=for-the-badge&cacheSeconds=60)](https://github.com/HyperFinal/Twitch-Retold-Desktop-Android/releases)
 [![Android](https://img.shields.io/github/v/release/HyperFinal/Twitch-Retold-Desktop-Android?filter=mobile-v*&color=3DDC84&label=android&style=for-the-badge&cacheSeconds=60)](https://github.com/HyperFinal/Twitch-Retold-Desktop-Android/releases/tag/mobile-v2.2.1)
+[![Android TV](https://img.shields.io/github/v/release/HyperFinal/Twitch-Retold-Desktop-Android-ad-block?filter=tv-v*&include_prereleases&color=FF6A00&label=android%20tv&logo=googletv&logoColor=white&style=for-the-badge&cacheSeconds=60)](https://github.com/HyperFinal/Twitch-Retold-Desktop-Android-ad-block/releases/tag/tv-v1.0.0-beta1)
 [![Windows](https://img.shields.io/badge/Windows-x64%20installer-0078D7.svg?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/HyperFinal/Twitch-Retold-Desktop-Android/releases)
 [![Android](https://img.shields.io/badge/Android-APK%20Direct-3DDC84.svg?style=for-the-badge&logo=android&logoColor=white)](https://github.com/HyperFinal/Twitch-Retold-Desktop-Android/releases/download/mobile-v2.2.1/Twitch_retold_2.2.1.apk)
 [![macOS](https://img.shields.io/badge/macOS-Apple%20Silicon%20%7C%20Intel-000000.svg?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/HyperFinal/Twitch-Retold-Desktop-Android/releases)
