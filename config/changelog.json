@@ -1,8 +1,41 @@
 [
   {
+    "version": "2.8.2",
+    "date": "2026-10-28",
+    "badge": "LATEST",
+    "title": {
+      "it": "Twitch Retold v2.8.2 - Aggiustamenti agli annunci",
+      "en": "Twitch Retold v2.8.2 - Announcement fixes",
+      "fr": "Twitch Retold v2.8.2 - Ajustements des annonces",
+      "de": "Twitch Retold v2.8.2 - Korrekturen an den Ankündigungen",
+      "es": "Twitch Retold v2.8.2 - Ajustes en los anuncios",
+      "pt": "Twitch Retold v2.8.2 - Ajustes nos anúncios"
+    },
+    "items": [
+      {
+        "type": "fix",
+        "title": {
+          "it": "Aggiustamenti agli annunci",
+          "en": "Announcement fixes",
+          "fr": "Ajustements des annonces",
+          "de": "Korrekturen an den Ankündigungen",
+          "es": "Ajustes en los anuncios",
+          "pt": "Ajustes nos anúncios"
+        },
+        "desc": {
+          "it": "Aggiustamenti agli annunci.",
+          "en": "Announcement fixes.",
+          "fr": "Ajustements des annonces.",
+          "de": "Korrekturen an den Ankündigungen.",
+          "es": "Ajustes en los anuncios.",
+          "pt": "Ajustes nos anúncios."
+        }
+      }
+    ]
+  },
+  {
     "version": "2.8.1",
     "date": "2026-10-23",
-    "badge": "LATEST",
     "title": {
       "it": "Twitch Retold v2.8.1 - Hotfix verifica StarGate",
       "en": "Twitch Retold v2.8.1 - StarGate verification hotfix",
