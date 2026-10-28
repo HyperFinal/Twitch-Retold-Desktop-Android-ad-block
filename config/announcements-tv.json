@@ -1,0 +1,79 @@
+{
+  "schema": 1,
+  "announcements": [
+    {
+      "id": "2026-10-tv-beta-notice",
+      "level": "important",
+      "priority": 90,
+      "platforms": ["tv"],
+      "repeatEveryLaunches": 20,
+      "badge": {
+        "it": "Versione beta",
+        "en": "Beta version",
+        "fr": "Version bêta",
+        "de": "Beta-Version",
+        "es": "Versión beta",
+        "pt": "Versão beta"
+      },
+      "title": {
+        "it": "Twitch Retold per Android TV è in beta",
+        "en": "Twitch Retold for Android TV is in beta",
+        "fr": "Twitch Retold pour Android TV est en bêta",
+        "de": "Twitch Retold für Android TV ist in der Beta",
+        "es": "Twitch Retold para Android TV está en beta",
+        "pt": "O Twitch Retold para Android TV está em beta"
+      },
+      "body": {
+        "it": "Questa è una versione beta: possono capitare errori imprevisti, blocchi o funzioni che non si comportano come sul telefono. Se trovi un problema, segnalalo su GitHub: ci aiuta a sistemarlo in fretta.",
+        "en": "This is a beta version: unexpected errors, freezes or features that do not behave as on the phone may happen. If you find a problem, report it on GitHub: it helps us fix it quickly.",
+        "fr": "Ceci est une version bêta : des erreurs inattendues, des blocages ou des fonctions qui ne se comportent pas comme sur le téléphone peuvent survenir. Si tu trouves un problème, signale-le sur GitHub : ça nous aide à le corriger vite.",
+        "de": "Dies ist eine Beta-Version: Unerwartete Fehler, Hänger oder Funktionen, die sich anders als auf dem Handy verhalten, können vorkommen. Wenn du ein Problem findest, melde es auf GitHub: Das hilft uns, es schnell zu beheben.",
+        "es": "Esta es una versión beta: pueden aparecer errores inesperados, bloqueos o funciones que no se comportan como en el móvil. Si encuentras un problema, infórmalo en GitHub: nos ayuda a corregirlo rápido.",
+        "pt": "Esta é uma versão beta: podem surgir erros inesperados, bloqueios ou funções que não se comportam como no telemóvel. Se encontrares um problema, reporta-o no GitHub: ajuda-nos a corrigi-lo depressa."
+      },
+      "bullets": {
+        "it": [
+          "Apri una issue per ogni problema, una per volta",
+          "Scrivi il modello di TV e la versione (Impostazioni › Informazioni)",
+          "Racconta cosa stavi facendo quando è successo"
+        ],
+        "en": [
+          "Open one issue per problem, one at a time",
+          "Write your TV model and the version (Settings › About)",
+          "Tell us what you were doing when it happened"
+        ],
+        "fr": [
+          "Ouvre une issue par problème, une à la fois",
+          "Indique le modèle de TV et la version (Paramètres › À propos)",
+          "Raconte ce que tu faisais quand c'est arrivé"
+        ],
+        "de": [
+          "Eröffne pro Problem ein eigenes Issue",
+          "Nenne Fernsehermodell und Version (Einstellungen › Info)",
+          "Beschreibe, was du gerade getan hast"
+        ],
+        "es": [
+          "Abre una issue por cada problema, una a la vez",
+          "Indica el modelo de TV y la versión (Ajustes › Acerca de)",
+          "Cuenta qué estabas haciendo cuando ocurrió"
+        ],
+        "pt": [
+          "Abre uma issue por problema, uma de cada vez",
+          "Indica o modelo da TV e a versão (Definições › Sobre)",
+          "Conta o que estavas a fazer quando aconteceu"
+        ]
+      },
+      "cta": {
+        "label": {
+          "it": "Segnala su GitHub",
+          "en": "Report on GitHub",
+          "fr": "Signaler sur GitHub",
+          "de": "Auf GitHub melden",
+          "es": "Informar en GitHub",
+          "pt": "Reportar no GitHub"
+        },
+        "url": "https://github.com/HyperFinal/Twitch-Retold-Desktop-Android-ad-block/issues/new"
+      }
+    }
+  ]
+}
