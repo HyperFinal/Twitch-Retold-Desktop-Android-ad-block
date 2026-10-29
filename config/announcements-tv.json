@@ -2,10 +2,57 @@
   "schema": 1,
   "announcements": [
     {
+      "id": "2026-10-stars-100-tv",
+      "level": "news",
+      "priority": 100,
+      "repeatEveryLaunches": 0,
+      "platforms": [
+        "tv"
+      ],
+      "art": "pixel-stars100",
+      "badge": {
+        "it": "Community",
+        "en": "Community",
+        "fr": "Communauté",
+        "de": "Community",
+        "es": "Comunidad",
+        "pt": "Comunidade"
+      },
+      "title": {
+        "it": "100 stelle su GitHub: grazie!",
+        "en": "100 stars on GitHub: thank you!",
+        "fr": "100 étoiles sur GitHub : merci !",
+        "de": "100 Sterne auf GitHub: danke!",
+        "es": "¡100 estrellas en GitHub: gracias!",
+        "pt": "100 estrelas no GitHub: obrigado!"
+      },
+      "body": {
+        "it": "Twitch Retold ha superato le 100 stelle su GitHub! Grazie a chi lo usa ogni giorno, a chi segnala un problema e a chi lo racconta a un amico: è grazie a voi se il progetto continua a crescere. Se ti piace, lascia una stella anche tu.",
+        "en": "Twitch Retold has passed 100 stars on GitHub! Thank you to everyone who uses it every day, reports a problem or tells a friend about it: the project keeps growing because of you. If you like it, leave a star too.",
+        "fr": "Twitch Retold a dépassé les 100 étoiles sur GitHub ! Merci à celles et ceux qui l’utilisent chaque jour, signalent un problème ou en parlent à un ami : c’est grâce à vous que le projet continue de grandir. Si vous l’aimez, laissez aussi une étoile.",
+        "de": "Twitch Retold hat die 100 Sterne auf GitHub überschritten! Danke an alle, die es täglich nutzen, ein Problem melden oder es Freunden weiterempfehlen: Das Projekt wächst dank euch weiter. Wenn es dir gefällt, gib auch du einen Stern.",
+        "es": "¡Twitch Retold ha superado las 100 estrellas en GitHub! Gracias a quienes lo usan cada día, avisan de un problema o se lo cuentan a un amigo: el proyecto sigue creciendo gracias a vosotros. Si te gusta, deja tú también una estrella.",
+        "pt": "O Twitch Retold passou das 100 estrelas no GitHub! Obrigado a quem usa todos os dias, relata um problema ou conta a um amigo: o projeto continua a crescer graças a vocês. Se você gostou, deixe também uma estrela."
+      },
+      "cta": {
+        "label": {
+          "it": "Lascia una stella",
+          "en": "Leave a star",
+          "fr": "Laisser une étoile",
+          "de": "Gib einen Stern",
+          "es": "Deja una estrella",
+          "pt": "Deixe uma estrela"
+        },
+        "url": "https://github.com/HyperFinal/Twitch-Retold-Desktop-Android"
+      }
+    },
+    {
       "id": "2026-10-tv-beta-notice",
       "level": "important",
       "priority": 90,
-      "platforms": ["tv"],
+      "platforms": [
+        "tv"
+      ],
       "repeatEveryLaunches": 20,
       "badge": {
         "it": "Versione beta",
