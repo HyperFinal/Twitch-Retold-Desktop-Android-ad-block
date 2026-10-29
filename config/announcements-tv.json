@@ -4,7 +4,7 @@
     {
       "id": "2026-10-stars-100-tv",
       "level": "news",
-      "priority": 100,
+      "priority": 60,
       "repeatEveryLaunches": 0,
       "platforms": [
         "tv"
