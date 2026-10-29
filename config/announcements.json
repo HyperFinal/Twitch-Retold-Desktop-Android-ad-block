@@ -182,6 +182,90 @@
         },
         "url": "https://github.com/HyperFinal/Twitch-Retold-Desktop-Android"
       }
+    },
+    {
+      "id": "mobile-release-r3",
+      "source": "latest-mobile-release",
+      "priority": 90,
+      "level": "news",
+      "platforms": [
+        "desktop"
+      ],
+      "art": "phone",
+      "badge": {
+        "it": "Android {version}",
+        "en": "Android {version}",
+        "fr": "Android {version}",
+        "de": "Android {version}",
+        "es": "Android {version}",
+        "pt": "Android {version}"
+      },
+      "title": {
+        "it": "Twitch Retold Mobile {version} è disponibile",
+        "en": "Twitch Retold Mobile {version} is out",
+        "fr": "Twitch Retold Mobile {version} est disponible",
+        "de": "Twitch Retold Mobile {version} ist da",
+        "es": "Twitch Retold Mobile {version} ya está disponible",
+        "pt": "Twitch Retold Mobile {version} está disponível"
+      },
+      "body": {
+        "it": "La nuova versione Android introduce i filtri per tag, i suggerimenti emote in chat (7TV, BTTV e Twitch), la chat sincronizzata col video e consumi ridotti per non scaldare il telefono. Inquadra il codice per scaricarla.",
+        "en": "The new Android update brings live tag filters, chat emote autocomplete (7TV, BTTV, and Twitch), chat in sync with the video, and lower power usage to keep your phone cool. Scan the code to download.",
+        "fr": "La mise à jour Android apporte le filtre par tags, la suggestion d'émotes dans le chat (7TV, BTTV, Twitch), le chat synchronisé avec la vidéo et une consommation réduite. Scannez le code pour la télécharger.",
+        "de": "Das neue Android-Update bringt Tag-Filter für Streams, Emote-Vorschläge im Chat (7TV, BTTV, Twitch), mit dem Video synchronisierten Chat und weniger Akkuverbrauch. Scanne den Code zum Herunterladen.",
+        "es": "La nueva versión de Android añade filtros por etiquetas, sugerencias de emoticonos en el chat (7TV, BTTV, Twitch), chat sincronizado con el vídeo y menor consumo. Escanea el código para descargarla.",
+        "pt": "A nova versão Android traz filtros por tags, sugestões de emotes no chat (7TV, BTTV, Twitch), chat sincronizado com o vídeo e menor consumo de bateria. Escaneie o código com o celular para baixar."
+      },
+      "bullets": {
+        "it": [
+          "Filtro per tag: trova subito le live con i tuoi tag preferiti",
+          "Suggerimenti emote in chat (7TV, BetterTTV e Twitch) e menzioni @",
+          "Chat a tempo col video e ripresa dal VOD dopo una pausa",
+          "Consumi ottimizzati per mantenere il telefono fresco"
+        ],
+        "en": [
+          "Tag filters: easily browse lives with your favourite tags",
+          "Chat emote suggestions (7TV, BetterTTV, and Twitch) and @ mentions",
+          "Chat in sync with video and resume from VOD after pausing",
+          "Optimized performance to keep your phone running cool"
+        ],
+        "fr": [
+          "Filtre par tags : trouvez rapidement les lives avec vos tags favoris",
+          "Suggestions d'émotes dans le chat (7TV, BetterTTV, Twitch) et mentions @",
+          "Chat synchronisé avec la vidéo et reprise sur la VOD après pause",
+          "Consommation optimisée pour garder le téléphone au frais"
+        ],
+        "de": [
+          "Tag-Filter: finde Streams schnell anhand deiner Lieblingstags",
+          "Emote-Vorschläge im Chat (7TV, BetterTTV, Twitch) und @-Erwähnungen",
+          "Chat synchron mit dem Video und Fortsetzen aus dem VOD nach Pausen",
+          "Optimierte Leistung, damit das Smartphone kühl bleibt"
+        ],
+        "es": [
+          "Filtros por etiquetas: encuentra directos con tus tags favoritos",
+          "Sugerencias de emoticonos en chat (7TV, BetterTTV, Twitch) y menciones @",
+          "Chat sincronizado con el vídeo e reanudación de VOD tras pausar",
+          "Consumo optimizado para no calentar el móvil"
+        ],
+        "pt": [
+          "Filtros por tags: encontre lives com as tags que você procura",
+          "Sugestões de emotes no chat (7TV, BetterTTV, Twitch) e menções @",
+          "Chat sincronizado com o vídeo e retomada do VOD após a pausa",
+          "Desempenho otimizado para manter o celular frio"
+        ]
+      },
+      "cta": {
+        "label": {
+          "it": "Scarica per Android",
+          "en": "Get it for Android",
+          "fr": "Télécharger pour Android",
+          "de": "Für Android herunterladen",
+          "es": "Descargar para Android",
+          "pt": "Baixar para Android"
+        }
+      },
+      "qr": true,
+      "repeatEveryLaunches": 30
     }
   ]
 }
