@@ -4,7 +4,7 @@
     {
       "id": "2026-10-stars-100-desktop",
       "level": "news",
-      "priority": 100,
+      "priority": 60,
       "repeatEveryLaunches": 0,
       "platforms": [
         "desktop"
@@ -50,7 +50,7 @@
     {
       "id": "2026-10-stars-100-mobile",
       "level": "news",
-      "priority": 100,
+      "priority": 60,
       "repeatEveryLaunches": 0,
       "platforms": [
         "mobile"
@@ -96,7 +96,7 @@
     {
       "id": "2026-10-stars-100-thanks-desktop",
       "level": "news",
-      "priority": 100,
+      "priority": 60,
       "repeatEveryLaunches": 0,
       "platforms": [
         "desktop"
@@ -141,7 +141,7 @@
     {
       "id": "2026-10-stars-100-thanks-mobile",
       "level": "news",
-      "priority": 100,
+      "priority": 60,
       "repeatEveryLaunches": 0,
       "platforms": [
         "mobile"
