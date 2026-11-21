@@ -2,48 +2,79 @@
   "schema": 1,
   "announcements": [
     {
-      "id": "2026-10-stars-100-tv",
-      "level": "news",
+      "id": "join-telegram-channel-tv",
+      "level": "info",
       "priority": 60,
-      "repeatEveryLaunches": 0,
+      "repeatEveryLaunches": 15,
       "platforms": [
         "tv"
       ],
-      "art": "pixel-stars100",
       "badge": {
-        "it": "Community",
-        "en": "Community",
-        "fr": "Communauté",
-        "de": "Community",
-        "es": "Comunidad",
-        "pt": "Comunidade"
+        "it": "Canale Telegram",
+        "en": "Telegram Channel",
+        "fr": "Canal Telegram",
+        "de": "Telegram-Kanal",
+        "es": "Canal de Telegram",
+        "pt": "Canal do Telegram"
       },
       "title": {
-        "it": "100 stelle su GitHub: grazie!",
-        "en": "100 stars on GitHub: thank you!",
-        "fr": "100 étoiles sur GitHub : merci !",
-        "de": "100 Sterne auf GitHub: danke!",
-        "es": "¡100 estrellas en GitHub: gracias!",
-        "pt": "100 estrelas no GitHub: obrigado!"
+        "it": "Iscriviti al canale Telegram di Twitch Retold",
+        "en": "Join the official Twitch Retold Telegram channel",
+        "fr": "Rejoignez le canal Telegram de Twitch Retold",
+        "de": "Tritt dem Twitch Retold Telegram-Kanal bei",
+        "es": "Únete al canal de Telegram de Twitch Retold",
+        "pt": "Entre no canal do Telegram do Twitch Retold"
       },
       "body": {
-        "it": "Twitch Retold ha superato le 100 stelle su GitHub! Grazie a chi lo usa ogni giorno, a chi segnala un problema e a chi lo racconta a un amico: è grazie a voi se il progetto continua a crescere. Se ti piace, lascia una stella anche tu.",
-        "en": "Twitch Retold has passed 100 stars on GitHub! Thank you to everyone who uses it every day, reports a problem or tells a friend about it: the project keeps growing because of you. If you like it, leave a star too.",
-        "fr": "Twitch Retold a dépassé les 100 étoiles sur GitHub ! Merci à celles et ceux qui l’utilisent chaque jour, signalent un problème ou en parlent à un ami : c’est grâce à vous que le projet continue de grandir. Si vous l’aimez, laissez aussi une étoile.",
-        "de": "Twitch Retold hat die 100 Sterne auf GitHub überschritten! Danke an alle, die es täglich nutzen, ein Problem melden oder es Freunden weiterempfehlen: Das Projekt wächst dank euch weiter. Wenn es dir gefällt, gib auch du einen Stern.",
-        "es": "¡Twitch Retold ha superado las 100 estrellas en GitHub! Gracias a quienes lo usan cada día, avisan de un problema o se lo cuentan a un amigo: el proyecto sigue creciendo gracias a vosotros. Si te gusta, deja tú también una estrella.",
-        "pt": "O Twitch Retold passou das 100 estrelas no GitHub! Obrigado a quem usa todos os dias, relata um problema ou conta a um amigo: o projeto continua a crescer graças a vocês. Se você gostou, deixe também uma estrela."
+        "it": "Resta aggiornato su tutte le novità di Twitch Retold! Sul canale Telegram ufficiale pubblichiamo gli avvisi delle nuove versioni, le anteprime delle funzioni in arrivo e le comunicazioni importanti. Inquadra il QR code col telefono per iscriverti.",
+        "en": "Stay up to date on everything happening with Twitch Retold! On the official Telegram channel we post release announcements, previews of upcoming features, and important project updates. Scan the QR code with your phone to join.",
+        "fr": "Restez informé de toutes les nouveautés de Twitch Retold ! Sur le canal Telegram officiel, nous publions les nouvelles versions, les aperçus des prochaines fonctionnalités et les annonces importantes. Scannez le QR code avec votre téléphone pour rejoindre.",
+        "de": "Bleib über alle Neuigkeiten rund um Twitch Retold auf dem Laufenden! Im offiziellen Telegram-Kanal posten wir neue Releases, Vorschauen kommender Funktionen und wichtige Hinweise. Scanne den QR-Code mit deinem Smartphone zum Beitreten.",
+        "es": "¡Mantente al día con todas las novedades de Twitch Retold! En el canal oficial de Telegram publicamos avisos de nuevas versiones, adelantos de próximas funciones y comunicados importantes. Escanea el código QR con tu móvil para unirte.",
+        "pt": "Fique por dentro de todas as novidades do Twitch Retold! No canal oficial do Telegram publicamos avisos de novas versões, prévias dos próximos recursos e comunicados importantes. Escaneie o QR code com seu celular para entrar."
+      },
+      "bullets": {
+        "it": [
+          "Avvisi immediati per ogni nuova versione Android TV, Mobile e PC",
+          "Anteprime delle novità in sviluppo e aggiornamenti per la community",
+          "Comunicazioni rapide in caso di problemi o fix urgenti"
+        ],
+        "en": [
+          "Instant alerts for every new Android TV, Mobile, and PC release",
+          "Sneak peeks of upcoming features and community updates",
+          "Quick notices whenever urgent fixes or issues come up"
+        ],
+        "fr": [
+          "Alertes immédiates pour chaque nouvelle version Android TV, Mobile et PC",
+          "Aperçus des nouveautés en développement et actus de la communauté",
+          "Informations rapides en cas de problème ou de correctif urgent"
+        ],
+        "de": [
+          "Sofortige Hinweise zu jedem neuen Release für Android TV, Mobile und PC",
+          "Vorschauen auf neue Funktionen und Neuigkeiten aus der Community",
+          "Schnelle Meldungen bei Problemen oder dringenden Fixes"
+        ],
+        "es": [
+          "Avisos al instante de cada nueva versión para Android TV, móvil y PC",
+          "Adelantos de funciones en desarrollo y novedades de la comunidad",
+          "Avisos rápidos ante cualquier problema o corrección urgente"
+        ],
+        "pt": [
+          "Avisos imediatos de cada nova versão para Android TV, celular e PC",
+          "Prévias dos recursos em desenvolvimento e novidades da comunidade",
+          "Comunicados rápidos em caso de problemas ou correções urgentes"
+        ]
       },
       "cta": {
         "label": {
-          "it": "Lascia una stella",
-          "en": "Leave a star",
-          "fr": "Laisser une étoile",
-          "de": "Gib einen Stern",
-          "es": "Deja una estrella",
-          "pt": "Deixe uma estrela"
+          "it": "Iscriviti su Telegram",
+          "en": "Join on Telegram",
+          "fr": "Rejoindre sur Telegram",
+          "de": "Auf Telegram beitreten",
+          "es": "Unirse en Telegram",
+          "pt": "Entrar no Telegram"
         },
-        "url": "https://github.com/HyperFinal/Twitch-Retold-Desktop-Android"
+        "url": "https://t.me/twitch_retold"
       }
     },
     {
