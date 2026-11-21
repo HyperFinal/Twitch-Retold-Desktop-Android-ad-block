@@ -2,186 +2,83 @@
   "schema": 1,
   "announcements": [
     {
-      "id": "2026-10-stars-100-desktop",
-      "level": "news",
+      "id": "join-telegram-channel",
+      "level": "info",
       "priority": 60,
-      "repeatEveryLaunches": 0,
+      "repeatEveryLaunches": 15,
       "platforms": [
-        "desktop"
-      ],
-      "fromVersion": "2.8.2",
-      "art": "pixel-stars100",
-      "badge": {
-        "it": "Community",
-        "en": "Community",
-        "fr": "Communauté",
-        "de": "Community",
-        "es": "Comunidad",
-        "pt": "Comunidade"
-      },
-      "title": {
-        "it": "100 stelle su GitHub: grazie!",
-        "en": "100 stars on GitHub: thank you!",
-        "fr": "100 étoiles sur GitHub : merci !",
-        "de": "100 Sterne auf GitHub: danke!",
-        "es": "¡100 estrellas en GitHub: gracias!",
-        "pt": "100 estrelas no GitHub: obrigado!"
-      },
-      "body": {
-        "it": "Twitch Retold ha superato le 100 stelle su GitHub! Grazie a chi lo usa ogni giorno, a chi segnala un problema e a chi lo racconta a un amico: è grazie a voi se il progetto continua a crescere. Se ti piace, lascia una stella anche tu.",
-        "en": "Twitch Retold has passed 100 stars on GitHub! Thank you to everyone who uses it every day, reports a problem or tells a friend about it: the project keeps growing because of you. If you like it, leave a star too.",
-        "fr": "Twitch Retold a dépassé les 100 étoiles sur GitHub ! Merci à celles et ceux qui l’utilisent chaque jour, signalent un problème ou en parlent à un ami : c’est grâce à vous que le projet continue de grandir. Si vous l’aimez, laissez aussi une étoile.",
-        "de": "Twitch Retold hat die 100 Sterne auf GitHub überschritten! Danke an alle, die es täglich nutzen, ein Problem melden oder es Freunden weiterempfehlen: Das Projekt wächst dank euch weiter. Wenn es dir gefällt, gib auch du einen Stern.",
-        "es": "¡Twitch Retold ha superado las 100 estrellas en GitHub! Gracias a quienes lo usan cada día, avisan de un problema o se lo cuentan a un amigo: el proyecto sigue creciendo gracias a vosotros. Si te gusta, deja tú también una estrella.",
-        "pt": "O Twitch Retold passou das 100 estrelas no GitHub! Obrigado a quem usa todos os dias, relata um problema ou conta a um amigo: o projeto continua a crescer graças a vocês. Se você gostou, deixe também uma estrela."
-      },
-      "cta": {
-        "label": {
-          "it": "Lascia una stella",
-          "en": "Leave a star",
-          "fr": "Laisser une étoile",
-          "de": "Gib einen Stern",
-          "es": "Deja una estrella",
-          "pt": "Deixe uma estrela"
-        },
-        "url": "https://github.com/HyperFinal/Twitch-Retold-Desktop-Android"
-      }
-    },
-    {
-      "id": "2026-10-stars-100-mobile",
-      "level": "news",
-      "priority": 60,
-      "repeatEveryLaunches": 0,
-      "platforms": [
+        "desktop",
         "mobile"
       ],
-      "fromVersion": "2.2.2",
-      "art": "pixel-stars100",
+      "art": "telegram",
       "badge": {
-        "it": "Community",
-        "en": "Community",
-        "fr": "Communauté",
-        "de": "Community",
-        "es": "Comunidad",
-        "pt": "Comunidade"
+        "it": "Canale Telegram",
+        "en": "Telegram Channel",
+        "fr": "Canal Telegram",
+        "de": "Telegram-Kanal",
+        "es": "Canal de Telegram",
+        "pt": "Canal do Telegram"
       },
       "title": {
-        "it": "100 stelle su GitHub: grazie!",
-        "en": "100 stars on GitHub: thank you!",
-        "fr": "100 étoiles sur GitHub : merci !",
-        "de": "100 Sterne auf GitHub: danke!",
-        "es": "¡100 estrellas en GitHub: gracias!",
-        "pt": "100 estrelas no GitHub: obrigado!"
+        "it": "Iscriviti al canale Telegram di Twitch Retold",
+        "en": "Join the official Twitch Retold Telegram channel",
+        "fr": "Rejoignez le canal Telegram de Twitch Retold",
+        "de": "Tritt dem Twitch Retold Telegram-Kanal bei",
+        "es": "Únete al canal de Telegram de Twitch Retold",
+        "pt": "Entre no canal do Telegram do Twitch Retold"
       },
       "body": {
-        "it": "Twitch Retold ha superato le 100 stelle su GitHub! Grazie a chi lo usa ogni giorno, a chi segnala un problema e a chi lo racconta a un amico: è grazie a voi se il progetto continua a crescere. Se ti piace, lascia una stella anche tu.",
-        "en": "Twitch Retold has passed 100 stars on GitHub! Thank you to everyone who uses it every day, reports a problem or tells a friend about it: the project keeps growing because of you. If you like it, leave a star too.",
-        "fr": "Twitch Retold a dépassé les 100 étoiles sur GitHub ! Merci à celles et ceux qui l’utilisent chaque jour, signalent un problème ou en parlent à un ami : c’est grâce à vous que le projet continue de grandir. Si vous l’aimez, laissez aussi une étoile.",
-        "de": "Twitch Retold hat die 100 Sterne auf GitHub überschritten! Danke an alle, die es täglich nutzen, ein Problem melden oder es Freunden weiterempfehlen: Das Projekt wächst dank euch weiter. Wenn es dir gefällt, gib auch du einen Stern.",
-        "es": "¡Twitch Retold ha superado las 100 estrellas en GitHub! Gracias a quienes lo usan cada día, avisan de un problema o se lo cuentan a un amigo: el proyecto sigue creciendo gracias a vosotros. Si te gusta, deja tú también una estrella.",
-        "pt": "O Twitch Retold passou das 100 estrelas no GitHub! Obrigado a quem usa todos os dias, relata um problema ou conta a um amigo: o projeto continua a crescer graças a vocês. Se você gostou, deixe também uma estrela."
+        "it": "Resta aggiornato in tempo reale su tutte le novità di Twitch Retold! Sul canale Telegram ufficiale pubblichiamo gli avvisi delle nuove versioni, le anteprime delle funzioni in arrivo e le comunicazioni importanti sul progetto.",
+        "en": "Stay up to date in real time on everything happening with Twitch Retold! On the official Telegram channel we post release announcements, previews of upcoming features, and important project updates.",
+        "fr": "Restez informé en temps réel de toutes les nouveautés de Twitch Retold ! Sur le canal Telegram officiel, nous publions les nouvelles versions, les aperçus des prochaines fonctionnalités et les annonces importantes.",
+        "de": "Bleib in Echtzeit über alle Neuigkeiten rund um Twitch Retold auf dem Laufenden! Im offiziellen Telegram-Kanal posten wir neue Releases, Vorschauen kommender Funktionen und wichtige Hinweise zum Projekt.",
+        "es": "¡Mantente al día en tiempo real con todas las novedades de Twitch Retold! En el canal oficial de Telegram publicamos avisos de nuevas versiones, adelantos de próximas funciones y comunicados importantes.",
+        "pt": "Fique por dentro em tempo real de todas as novidades do Twitch Retold! No canal oficial do Telegram publicamos avisos de novas versões, prévias dos próximos recursos e comunicados importantes do projeto."
+      },
+      "bullets": {
+        "it": [
+          "Avvisi immediati per ogni nuova versione PC, Mobile e Android TV",
+          "Anteprime delle novità in sviluppo e aggiornamenti per la community",
+          "Comunicazioni rapide in caso di problemi o fix urgenti"
+        ],
+        "en": [
+          "Instant alerts for every new PC, Mobile, and Android TV release",
+          "Sneak peeks of upcoming features and community updates",
+          "Quick notices whenever urgent fixes or issues come up"
+        ],
+        "fr": [
+          "Alertes immédiates pour chaque nouvelle version PC, Mobile et Android TV",
+          "Aperçus des nouveautés en développement et actus de la communauté",
+          "Informations rapides en cas de problème ou de correctif urgent"
+        ],
+        "de": [
+          "Sofortige Hinweise zu jedem neuen Release für PC, Mobile und Android TV",
+          "Vorschauen auf neue Funktionen und Neuigkeiten aus der Community",
+          "Schnelle Meldungen bei Problemen oder dringenden Fixes"
+        ],
+        "es": [
+          "Avisos al instante de cada nueva versión para PC, móvil y Android TV",
+          "Adelantos de funciones en desarrollo y novedades de la comunidad",
+          "Avisos rápidos ante cualquier problema o corrección urgente"
+        ],
+        "pt": [
+          "Avisos imediatos de cada nova versão para PC, celular e Android TV",
+          "Prévias dos recursos em desenvolvimento e novidades da comunidade",
+          "Comunicados rápidos em caso de problemas ou correções urgentes"
+        ]
       },
       "cta": {
         "label": {
-          "it": "Lascia una stella",
-          "en": "Leave a star",
-          "fr": "Laisser une étoile",
-          "de": "Gib einen Stern",
-          "es": "Deja una estrella",
-          "pt": "Deixe uma estrela"
+          "it": "Iscriviti su Telegram",
+          "en": "Join on Telegram",
+          "fr": "Rejoindre sur Telegram",
+          "de": "Auf Telegram beitreten",
+          "es": "Unirse en Telegram",
+          "pt": "Entrar no Telegram"
         },
-        "url": "https://github.com/HyperFinal/Twitch-Retold-Desktop-Android"
-      }
-    },
-    {
-      "id": "2026-10-stars-100-thanks-desktop",
-      "level": "news",
-      "priority": 60,
-      "repeatEveryLaunches": 0,
-      "platforms": [
-        "desktop"
-      ],
-      "beforeVersion": "2.8.2",
-      "badge": {
-        "it": "100 ★ GitHub",
-        "en": "100 ★ GitHub",
-        "fr": "100 ★ GitHub",
-        "de": "100 ★ GitHub",
-        "es": "100 ★ GitHub",
-        "pt": "100 ★ GitHub"
+        "url": "https://t.me/twitch_retold"
       },
-      "title": {
-        "it": "★ 𝓖𝓻𝓪𝔃𝓲𝓮! ★ 100 stelle su GitHub",
-        "en": "★ 𝓣𝓱𝓪𝓷𝓴 𝔂𝓸𝓾! ★ 100 stars on GitHub",
-        "fr": "★ 𝓜𝓮𝓻𝓬𝓲 ! ★ 100 étoiles sur GitHub",
-        "de": "★ 𝓓𝓪𝓷𝓴𝓮! ★ 100 Sterne auf GitHub",
-        "es": "★ 𝓖𝓻𝓪𝓬𝓲𝓪𝓼! ★ 100 estrellas en GitHub",
-        "pt": "★ 𝓞𝓫𝓻𝓲𝓰𝓪𝓭𝓸! ★ 100 estrelas no GitHub"
-      },
-      "body": {
-        "it": "Twitch Retold ha superato le 100 stelle su GitHub! Grazie a chi lo usa ogni giorno, a chi segnala un problema e a chi lo racconta a un amico: è grazie a voi se il progetto continua a crescere. Se ti piace, lascia una stella anche tu.",
-        "en": "Twitch Retold has passed 100 stars on GitHub! Thank you to everyone who uses it every day, reports a problem or tells a friend about it: the project keeps growing because of you. If you like it, leave a star too.",
-        "fr": "Twitch Retold a dépassé les 100 étoiles sur GitHub ! Merci à celles et ceux qui l’utilisent chaque jour, signalent un problème ou en parlent à un ami : c’est grâce à vous que le projet continue de grandir. Si vous l’aimez, laissez aussi une étoile.",
-        "de": "Twitch Retold hat die 100 Sterne auf GitHub überschritten! Danke an alle, die es täglich nutzen, ein Problem melden oder es Freunden weiterempfehlen: Das Projekt wächst dank euch weiter. Wenn es dir gefällt, gib auch du einen Stern.",
-        "es": "¡Twitch Retold ha superado las 100 estrellas en GitHub! Gracias a quienes lo usan cada día, avisan de un problema o se lo cuentan a un amigo: el proyecto sigue creciendo gracias a vosotros. Si te gusta, deja tú también una estrella.",
-        "pt": "O Twitch Retold passou das 100 estrelas no GitHub! Obrigado a quem usa todos os dias, relata um problema ou conta a um amigo: o projeto continua a crescer graças a vocês. Se você gostou, deixe também uma estrela."
-      },
-      "cta": {
-        "label": {
-          "it": "Lascia una stella",
-          "en": "Leave a star",
-          "fr": "Laisser une étoile",
-          "de": "Gib einen Stern",
-          "es": "Deja una estrella",
-          "pt": "Deixe uma estrela"
-        },
-        "url": "https://github.com/HyperFinal/Twitch-Retold-Desktop-Android"
-      }
-    },
-    {
-      "id": "2026-10-stars-100-thanks-mobile",
-      "level": "news",
-      "priority": 60,
-      "repeatEveryLaunches": 0,
-      "platforms": [
-        "mobile"
-      ],
-      "beforeVersion": "2.2.2",
-      "badge": {
-        "it": "100 ★ GitHub",
-        "en": "100 ★ GitHub",
-        "fr": "100 ★ GitHub",
-        "de": "100 ★ GitHub",
-        "es": "100 ★ GitHub",
-        "pt": "100 ★ GitHub"
-      },
-      "title": {
-        "it": "★ 𝓖𝓻𝓪𝔃𝓲𝓮! ★ 100 stelle su GitHub",
-        "en": "★ 𝓣𝓱𝓪𝓷𝓴 𝔂𝓸𝓾! ★ 100 stars on GitHub",
-        "fr": "★ 𝓜𝓮𝓻𝓬𝓲 ! ★ 100 étoiles sur GitHub",
-        "de": "★ 𝓓𝓪𝓷𝓴𝓮! ★ 100 Sterne auf GitHub",
-        "es": "★ 𝓖𝓻𝓪𝓬𝓲𝓪𝓼! ★ 100 estrellas en GitHub",
-        "pt": "★ 𝓞𝓫𝓻𝓲𝓰𝓪𝓭𝓸! ★ 100 estrelas no GitHub"
-      },
-      "body": {
-        "it": "Twitch Retold ha superato le 100 stelle su GitHub! Grazie a chi lo usa ogni giorno, a chi segnala un problema e a chi lo racconta a un amico: è grazie a voi se il progetto continua a crescere. Se ti piace, lascia una stella anche tu.",
-        "en": "Twitch Retold has passed 100 stars on GitHub! Thank you to everyone who uses it every day, reports a problem or tells a friend about it: the project keeps growing because of you. If you like it, leave a star too.",
-        "fr": "Twitch Retold a dépassé les 100 étoiles sur GitHub ! Merci à celles et ceux qui l’utilisent chaque jour, signalent un problème ou en parlent à un ami : c’est grâce à vous que le projet continue de grandir. Si vous l’aimez, laissez aussi une étoile.",
-        "de": "Twitch Retold hat die 100 Sterne auf GitHub überschritten! Danke an alle, die es täglich nutzen, ein Problem melden oder es Freunden weiterempfehlen: Das Projekt wächst dank euch weiter. Wenn es dir gefällt, gib auch du einen Stern.",
-        "es": "¡Twitch Retold ha superado las 100 estrellas en GitHub! Gracias a quienes lo usan cada día, avisan de un problema o se lo cuentan a un amigo: el proyecto sigue creciendo gracias a vosotros. Si te gusta, deja tú también una estrella.",
-        "pt": "O Twitch Retold passou das 100 estrelas no GitHub! Obrigado a quem usa todos os dias, relata um problema ou conta a um amigo: o projeto continua a crescer graças a vocês. Se você gostou, deixe também uma estrela."
-      },
-      "cta": {
-        "label": {
-          "it": "Lascia una stella",
-          "en": "Leave a star",
-          "fr": "Laisser une étoile",
-          "de": "Gib einen Stern",
-          "es": "Deja una estrella",
-          "pt": "Deixe uma estrela"
-        },
-        "url": "https://github.com/HyperFinal/Twitch-Retold-Desktop-Android"
-      }
+      "qr": true
     },
     {
       "id": "mobile-release-r3",
@@ -209,49 +106,49 @@
         "pt": "Twitch Retold Mobile {version} está disponível"
       },
       "body": {
-        "it": "La nuova versione Android introduce i filtri per tag, i suggerimenti emote in chat (7TV, BTTV e Twitch), la chat sincronizzata col video e consumi ridotti per non scaldare il telefono. Inquadra il codice per scaricarla.",
-        "en": "The new Android update brings live tag filters, chat emote autocomplete (7TV, BTTV, and Twitch), chat in sync with the video, and lower power usage to keep your phone cool. Scan the code to download.",
-        "fr": "La mise à jour Android apporte le filtre par tags, la suggestion d'émotes dans le chat (7TV, BTTV, Twitch), le chat synchronisé avec la vidéo et une consommation réduite. Scannez le code pour la télécharger.",
-        "de": "Das neue Android-Update bringt Tag-Filter für Streams, Emote-Vorschläge im Chat (7TV, BTTV, Twitch), mit dem Video synchronisierten Chat und weniger Akkuverbrauch. Scanne den Code zum Herunterladen.",
-        "es": "La nueva versión de Android añade filtros por etiquetas, sugerencias de emoticonos en el chat (7TV, BTTV, Twitch), chat sincronizado con el vídeo y menor consumo. Escanea el código para descargarla.",
-        "pt": "A nova versão Android traz filtros por tags, sugestões de emotes no chat (7TV, BTTV, Twitch), chat sincronizado com o vídeo e menor consumo de bateria. Escaneie o código com o celular para baixar."
+        "it": "La nuova versione Android porta il recupero dell'audio nei VOD mutati per copyright, i tratti evidenziati sulla barra del tempo, consumi di batteria ridotti su live e VOD e il 1440p sui VOD. Inquadra il codice per scaricarla.",
+        "en": "The new Android update brings muted VOD audio recovery, timeline markers for muted sections, lower battery use on lives and VODs, and 1440p VODs. Scan the code to download.",
+        "fr": "La nouvelle version Android apporte la récupération de l'audio sur les VOD coupées, les repères sur la barre de lecture, une batterie mieux préservée en live et VOD et les VOD en 1440p. Scannez le code pour la télécharger.",
+        "de": "Das neue Android-Update holt den Ton in stummgeschalteten VODs zurück, markiert stumme Stellen auf der Zeitleiste, spart Akku bei Lives und VODs und bringt 1440p-VODs. Scanne den Code zum Herunterladen.",
+        "es": "La nueva versión de Android recupera el audio en VODs silenciados por copyright, marca esos tramos en la barra de tiempo, reduce el gasto de batería en directos y VODs y añade VODs en 1440p. Escanea el código para descargarla.",
+        "pt": "A nova versão Android traz recuperação de áudio em VODs mutados por copyright, marcações na barra de tempo, menos gasto de bateria em lives e VODs e VODs em 1440p. Escaneie o código para baixar."
       },
       "bullets": {
         "it": [
-          "Filtro per tag: trova subito le live con i tuoi tag preferiti",
-          "Suggerimenti emote in chat (7TV, BetterTTV e Twitch) e menzioni @",
-          "Chat a tempo col video e ripresa dal VOD dopo una pausa",
-          "Consumi ottimizzati per mantenere il telefono fresco"
+          "Recupero dell'audio nei VOD mutati per copyright, anche in background",
+          "Parti recuperate e mutate visibili in verde e rosso sulla barra del tempo",
+          "Meno consumo di batteria su live e VOD (60 Hz a schermo intero, Wi-Fi e GPU più leggeri)",
+          "Audio in background ovunque e VOD fino a 1440p (2K)"
         ],
         "en": [
-          "Tag filters: easily browse lives with your favourite tags",
-          "Chat emote suggestions (7TV, BetterTTV, and Twitch) and @ mentions",
-          "Chat in sync with video and resume from VOD after pausing",
-          "Optimized performance to keep your phone running cool"
+          "Muted VOD audio recovery when still reachable on Twitch servers, including background audio",
+          "Green and red markers on the VOD seek bar for recovered and muted stretches",
+          "Lower battery drain on lives and VODs (60 Hz fullscreen, smarter Wi-Fi locks and lighter GPU)",
+          "Background audio everywhere and 1440p (2K) VOD playback"
         ],
         "fr": [
-          "Filtre par tags : trouvez rapidement les lives avec vos tags favoris",
-          "Suggestions d'émotes dans le chat (7TV, BetterTTV, Twitch) et mentions @",
-          "Chat synchronisé avec la vidéo et reprise sur la VOD après pause",
-          "Consommation optimisée pour garder le téléphone au frais"
+          "Récupération de l'audio sur les VOD coupées pour droits d'auteur, même en arrière-plan",
+          "Repères verts et rouges sur la barre de lecture des VOD",
+          "Moins de batterie en live et VOD (60 Hz plein écran, Wi-Fi et GPU allégés)",
+          "Audio en arrière-plan partout et VOD jusqu'en 1440p (2K)"
         ],
         "de": [
-          "Tag-Filter: finde Streams schnell anhand deiner Lieblingstags",
-          "Emote-Vorschläge im Chat (7TV, BetterTTV, Twitch) und @-Erwähnungen",
-          "Chat synchron mit dem Video und Fortsetzen aus dem VOD nach Pausen",
-          "Optimierte Leistung, damit das Smartphone kühl bleibt"
+          "Ton in stummgeschalteten VODs zurückholen – auch im Hintergrundaudio",
+          "Grüne und rote Markierungen auf der VOD-Zeitleiste",
+          "Weniger Akkuverbrauch bei Lives und VODs (60 Hz im Vollbild, sparsameres WLAN & GPU)",
+          "Hintergrundaudio überall und VODs bis 1440p (2K)"
         ],
         "es": [
-          "Filtros por etiquetas: encuentra directos con tus tags favoritos",
-          "Sugerencias de emoticonos en chat (7TV, BetterTTV, Twitch) y menciones @",
-          "Chat sincronizado con el vídeo e reanudación de VOD tras pausar",
-          "Consumo optimizado para no calentar el móvil"
+          "Recuperación de audio en VODs silenciados por copyright, también en segundo plano",
+          "Marcas verdes y rojas en la barra de tiempo de los VODs",
+          "Menos consumo de batería en directos y VODs (60 Hz pantalla completa, Wi-Fi y GPU más ligeros)",
+          "Audio en segundo plano en todas partes y VODs hasta 1440p (2K)"
         ],
         "pt": [
-          "Filtros por tags: encontre lives com as tags que você procura",
-          "Sugestões de emotes no chat (7TV, BetterTTV, Twitch) e menções @",
-          "Chat sincronizado com o vídeo e retomada do VOD após a pausa",
-          "Desempenho otimizado para manter o celular frio"
+          "Recuperação de áudio em VODs mutados por copyright, inclusive em segundo plano",
+          "Marcações verdes e vermelhas na barra de tempo dos VODs",
+          "Menos gasto de bateria em lives e VODs (60 Hz tela cheia, Wi-Fi e GPU mais leves)",
+          "Áudio em segundo plano em tudo e VODs até 1440p (2K)"
         ]
       },
       "cta": {
