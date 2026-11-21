@@ -9,6 +9,7 @@
 
 [![Desktop](https://img.shields.io/github/v/release/HyperFinal/Twitch-Retold-Desktop-Android?filter=v*&color=9146FF&label=desktop&style=for-the-badge&cacheSeconds=60)](https://github.com/HyperFinal/Twitch-Retold-Desktop-Android/releases)
 [![Android](https://img.shields.io/github/v/release/HyperFinal/Twitch-Retold-Desktop-Android?filter=mobile-v*&color=3DDC84&label=android&style=for-the-badge&cacheSeconds=60)](https://github.com/HyperFinal/Twitch-Retold-Desktop-Android/releases/tag/mobile-v2.3.1)
+[![Android TV](https://img.shields.io/github/v/release/HyperFinal/Twitch-Retold-Desktop-Android-ad-block?filter=tv-v*&include_prereleases&color=FF6A00&label=android%20tv&logo=googletv&logoColor=white&style=for-the-badge&cacheSeconds=60)](https://github.com/HyperFinal/Twitch-Retold-Desktop-Android-ad-block/releases/tag/tv-v1.0.0-beta4)
 [![Windows](https://img.shields.io/badge/Windows-x64%20installer-0078D7.svg?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/HyperFinal/Twitch-Retold-Desktop-Android/releases)
 [![Android](https://img.shields.io/badge/Android-APK%20Direct-3DDC84.svg?style=for-the-badge&logo=android&logoColor=white)](https://github.com/HyperFinal/Twitch-Retold-Desktop-Android/releases/download/mobile-v2.3.1/Twitch_retold_2.3.1.apk)
 [![macOS](https://img.shields.io/badge/macOS-Apple%20Silicon%20%7C%20Intel-000000.svg?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/HyperFinal/Twitch-Retold-Desktop-Android/releases)
@@ -54,13 +55,14 @@
     - [1. RetoldShield Zero-Ad Engine](#feature-retoldshield)
     - [2. Deep Black OLED Theme](#feature-oled)
     - [3. Sub-Only VOD Unlocker](#feature-vod)
-    - [4. 7TV, BetterTTV & FrankerFaceZ Emotes](#feature-emotes)
-    - [5. Playlist & Series Binge Player](#feature-binge)
-    - [6. Watch History & Smart Timestamp Resume](#feature-history)
-    - [7. Full Localization & Customization](#feature-settings)
-    - [8. Native Auto-Updater](#feature-updater)
-    - [9. Multistream](#feature-multistream)
-    - [10. Channel Pages](#feature-channel)
+    - [4. Muted VOD Audio Recovery](#feature-vod-unmute)
+    - [5. 7TV, BetterTTV & FrankerFaceZ Emotes](#feature-emotes)
+    - [6. Playlist & Series Binge Player](#feature-binge)
+    - [7. Watch History & Smart Timestamp Resume](#feature-history)
+    - [8. Full Localization & Customization](#feature-settings)
+    - [9. Native Auto-Updater](#feature-updater)
+    - [10. Multistream](#feature-multistream)
+    - [11. Channel Pages](#feature-channel)
   - [🚀 Installation & Getting Started](#installation)
     - [Windows](#install-windows)
     - [Android](#install-android)
@@ -148,9 +150,11 @@ The native Android app brings the ultra-clean, ad-free Twitch Retold experience 
 
 - 🛡️ **Advanced Stream Ad Protection**: Real-time stream ad interception for live streams and VODs powered by RetoldShield.
 - 🔓 **Sub-Only VOD Unlocker**: Watch subscriber-locked past broadcasts freely without restrictions.
+- 🔊 **Muted VOD Audio Recovery**: Restores original audio on copyright-muted VOD stretches when still reachable on Twitch's servers or CDN cache, with green/red markers right on the timeline.
 - 🎭 **Complete Emote Ecosystem**: Native rendering of 7TV, BetterTTV, and FrankerFaceZ animated emotes in live chat.
 - 📺 **Native Picture-in-Picture (PiP)**: Keep watching in a floating player while navigating other apps.
-- 🎧 **Background Audio & Lockscreen Playback (VODs)**: Keep listening to VODs with your screen off, complete with notification media controls.
+- 🎧 **Background Audio & Lockscreen Playback**: Keep listening to live streams and VODs with your screen off, complete with notification media controls and audio-only background mode.
+- 🔋 **Battery-Friendly Playback**: 60 Hz cap in fullscreen on 90/120 Hz displays, smart Wi-Fi/wake lock handling, Android Battery Saver awareness, and lightweight GPU/chat rendering across lives and VODs.
 - 🌙 **Deep OLED Dark Theme**: Deep black aesthetic tailored for AMOLED and OLED displays.
 - 🔄 **Integrated In-App Auto-Updater**: Directly checks, downloads, and prompts installation for new APK releases.
 - ⭐ **StarGate 1-Tap Community Unlock**: Effortless GitHub verification via pre-filled Custom Tabs to unlock RetoldShield & Sub-Only VODs.
@@ -241,37 +245,42 @@ All benchmarks shown above are measured on live production Twitch streams—not 
 * Watch subscriber-locked past broadcasts, highlights, and VODs seamlessly.
 * Synchronized chat replay and timestamp navigation preserved.
 
+<a id="feature-vod-unmute"></a>
+### 🔊 4. Muted VOD Audio Recovery (Desktop, Android & Android TV)
+* Automatically restores original audio on VOD sections muted by Twitch for copyright when the unmuted segments are still reachable on Twitch's servers or CDN cache (with automatic per-segment fallback if a stretch is no longer available).
+* Highlights copyright-flagged stretches directly on the VOD seek bar (**green** when audio was recovered, **red** when still muted) and in the scrub preview, with a toggle in player settings.
+
 <a id="feature-emotes"></a>
-### 🎭 4. 7TV, BetterTTV & FrankerFaceZ Emotes
+### 🎭 5. 7TV, BetterTTV & FrankerFaceZ Emotes
 * Built-in support for 7TV animated emotes, personal badges, and zero-width emote stacking.
 * BetterTTV and FFZ channel emotes render directly inside native Twitch chat.
 
 <a id="feature-binge"></a>
-### 🎬 5. Playlist & Series Binge Player
+### 🎬 6. Playlist & Series Binge Player
 * Sequential VOD playback with automatic next-episode queuing for series, podcasts, and playthroughs.
 
 <a id="feature-history"></a>
-### ⏱️ 6. Watch History & Smart Timestamp Resume
+### ⏱️ 7. Watch History & Smart Timestamp Resume
 * Quick-access "Last Live / VODs" navigation to resume channels from your exact saved position.
 * Automatically converts finished live broadcasts into historical VODs.
 
 <a id="feature-settings"></a>
-### ⚙️ 7. Full Localization & Customization
+### ⚙️ 8. Full Localization & Customization
 * 100% translated across **6 languages**: English, Italian, French, German, Spanish, and Portuguese.
 * Modular toggles: customize titlebar, hide stories, clean sidebar, and adjust layout clutter.
 
 <a id="feature-updater"></a>
-### 🔄 8. Native Auto-Updater
+### 🔄 9. Native Auto-Updater
 * Periodic background checking with alert toasts when new releases drop.
 * Automatic in-app download and installation on both Desktop and Android.
 
 <a id="feature-multistream"></a>
-### 🖥️ 9. Multistream (Desktop)
+### 🖥️ 10. Multistream (Desktop)
 * Up to three lives at once: one in focus with the full player controls, the others alongside, swapped instantly.
 * One unified chat for every channel, with per-channel sending.
 
 <a id="feature-channel"></a>
-### 📺 10. Channel Pages
+### 📺 11. Channel Pages
 * Our own channel pages, on Android and Desktop: Home, Videos, Clips, Series, Schedule and About.
 * Follow, subscribe and reminders for upcoming lives; Twitch screens such as Subscribe or Gift a sub open in the app's side panel, payments in your browser.
 
