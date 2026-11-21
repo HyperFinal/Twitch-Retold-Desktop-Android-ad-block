@@ -94,11 +94,11 @@ Every installer is scanned on VirusTotal before it is announced. Twitch Retold i
 
 | Platform | Version | File | Report |
 |---|---|---|---|
-| 🪟 Windows | v2.8.3 | `Twitch-Retold-Setup-2.8.3.exe` | [🔎 VirusTotal](https://www.virustotal.com/gui/file/c8ada11322f260ef79beac3e9b9ce5aa021a461075ee97bd9e65c139e0c4890d) |
+| 🪟 Windows | v2.8.4 | `Twitch-Retold-Setup-2.8.4.exe` | [🔎 VirusTotal](https://www.virustotal.com/gui/file/8bf906a01151334f00faea0e381a729f7bc3d6b8c84b1a91ea23e5c321aa2e2d) |
 | 📱 Android | v2.3.2 | `Twitch_retold_2.3.2.apk` | [🔎 VirusTotal](https://www.virustotal.com/gui/file/3ea3caa173a233492e70a917855e1ae545767e9005192199995b22525775cbd5) |
 
 **SHA-256**
-- Windows: `c8ada11322f260ef79beac3e9b9ce5aa021a461075ee97bd9e65c139e0c4890d`
+- Windows: `8bf906a01151334f00faea0e381a729f7bc3d6b8c84b1a91ea23e5c321aa2e2d`
 - Android: `3ea3caa173a233492e70a917855e1ae545767e9005192199995b22525775cbd5`
 
 ---
