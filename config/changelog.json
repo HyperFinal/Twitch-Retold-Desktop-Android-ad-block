@@ -1,8 +1,169 @@
 [
   {
+    "version": "2.8.4",
+    "date": "2026-11-21",
+    "badge": "LATEST",
+    "title": {
+      "it": "Twitch Retold v2.8.4 - Fix menu barra superiore, controlli VOD PC e interfaccia",
+      "en": "Twitch Retold v2.8.4 - Topbar popup menus, desktop VOD controls & UI fixes",
+      "fr": "Twitch Retold v2.8.4 - Correctifs menus du haut, contrôles VOD PC et interface",
+      "de": "Twitch Retold v2.8.4 - Fixes für obere Menüs, PC-VOD-Steuerung & Oberfläche",
+      "es": "Twitch Retold v2.8.4 - Corrección de menús superiores, controles VOD PC e interfaz",
+      "pt": "Twitch Retold v2.8.4 - Correções nos menus do topo, controles VOD PC e interface"
+    },
+    "items": [
+      {
+        "type": "fix",
+        "title": {
+          "it": "Menu della barra superiore di nuovo apribili",
+          "en": "Topbar menus open properly again",
+          "fr": "Les menus de la barre supérieure s'ouvrent à nouveau",
+          "de": "Menüs in der oberen Leiste öffnen wieder korrekt",
+          "es": "Los menús de la barra superior vuelven a abrirse",
+          "pt": "Menus da barra superior voltam a abrir corretamente"
+        },
+        "desc": {
+          "it": "Notifiche, Sussurri e il menu utente non restavano più nascosti quando venivano aperti dalla barra in alto. Nascosto anche il tasto Iscriviti di Twitch e l'ingranaggio BetterTTV sulle pagine in cui non può aprirsi.",
+          "en": "Notifications, Whispers and the account menu no longer stay invisible when clicked from the top bar. Also hides Twitch's Sign Up button and the BetterTTV gear on pages where BetterTTV cannot open.",
+          "fr": "Les notifications, chuchotements et le menu utilisateur ne restent plus invisibles lorsqu'on les ouvre depuis la barre du haut. Masque aussi le bouton S'inscrire et le bouton BetterTTV sur les pages où il est inactif.",
+          "de": "Benachrichtigungen, Flüsternachrichten und das Benutzermenü bleiben beim Klick in der oberen Leiste nicht mehr unsichtbar. Blendet außerdem den Registrieren-Button und das BetterTTV-Symbol auf nicht unterstützten Seiten aus.",
+          "es": "Las notificaciones, susurros y el menú de usuario ya no quedan invisibles al abrirse desde la barra superior. También oculta el botón Registrarse y el icono de BetterTTV donde no puede abrirse.",
+          "pt": "Notificações, Sussurros e o menu de usuário não ficam mais invisíveis ao clicar na barra superior. Também oculta o botão Inscrever-se e o ícone BetterTTV nas páginas onde ele não abre."
+        }
+      },
+      {
+        "type": "fix",
+        "title": {
+          "it": "Volume, Chat VOD e impostazioni pulite sul player VOD desktop",
+          "en": "Volume slider, VOD chat & desktop settings on the PC VOD player",
+          "fr": "Volume, chat VOD et réglages PC sur le lecteur VOD",
+          "de": "Lautstärkeregler, VOD-Chat & PC-Einstellungen im Desktop-VOD-Player",
+          "es": "Volumen, chat VOD y ajustes de escritorio en el reproductor VOD PC",
+          "pt": "Controle de volume, chat VOD e ajustes de PC no player VOD desktop"
+        },
+        "desc": {
+          "it": "Sul player VOD per computer tornano il pulsante muto con slider del volume e il tasto per aprire il replay della chat anche in finestra normale; dal menu del player VOD su PC sono state tolte le opzioni touch per telefono.",
+          "en": "Restores the mute button, volume slider and VOD chat replay toggle in normal windowed mode on PC, and removes phone-only touch gesture rows from the desktop VOD player settings.",
+          "fr": "Rétablit le bouton muet, le curseur de volume et le bouton de chat VOD hors plein écran sur PC, et retire les options tactiles mobiles des paramètres du lecteur VOD desktop.",
+          "de": "Stellt Stummschalter, Lautstärkeregler und VOD-Chat-Taste im normalen Fenster wieder her und entfernt reine Handy-Touch-Optionen aus den Desktop-VOD-Einstellungen.",
+          "es": "Devuelve el botón de silencio, control de volumen y acceso al chat VOD en ventana normal en PC, y quita las opciones táctiles de móvil de los ajustes del reproductor VOD.",
+          "pt": "Restaura o botão mudo, controle de volume e botão de chat VOD no modo janela no PC, removendo as opções de gestos de celular dos ajustes do player VOD."
+        }
+      },
+      {
+        "type": "fix",
+        "title": {
+          "it": "Sovrapposizioni nel player Live, finestra Accedi, Ricerca e Impostazioni",
+          "en": "Live player overlays, sign-in sheet, search palette & settings layout",
+          "fr": "Superpositions lecteur Live, panneau connexion, recherche et paramètres",
+          "de": "Live-Player-Hinweise, Anmeldepanel, Suchpalette & Einstellungs-Layout",
+          "es": "Superposiciones en Live, panel de acceso, búsqueda y ajustes",
+          "pt": "Sobreposições no player Live, painel de login, busca e configurações"
+        },
+        "desc": {
+          "it": "I badge Twitch di contenuto e sponsorizzazione scendono sotto la barra del player live senza coprirla, il pannello laterale Accedi a Twitch non taglia più i campi sui bordi, la ricerca rapida oscura tutta la barra in alto e in Impostazioni sono sistemati allineamenti, testi, segnaposto miniature VOD e doppio emoji.",
+          "en": "Moves Twitch's disclosure and sponsorship badges below the live player header, restores side padding on the 440px Twitch login sheet, dims the full top bar behind the search palette, and cleans up settings alignment, missing VOD thumbnails and minor UI text.",
+          "fr": "Place les badges de contenu et sponsoring sous l'en-tête du lecteur live, rétablit les marges du panneau de connexion Twitch, assombrit toute la barre du haut sous la recherche et corrige l'alignement des paramètres, miniatures VOD manquantes et textes.",
+          "de": "Verschiebt Twitch-Inhalts- und Sponsoring-Hinweise unter den Live-Player-Header, korrigiert die Seitenabstände im Anmelde-Panel, dunkelt die obere Leiste bei der Suche komplett ab und behebt Layout-, VOD-Vorschaubild- und Textfehler in den Einstellungen.",
+          "es": "Coloca los avisos de contenido y promoción bajo la cabecera del player en directo, corrige los márgenes del panel de inicio de sesión, oscurece toda la barra superior en la búsqueda y arregla alineaciones, miniaturas VOD y textos en Ajustes.",
+          "pt": "Posiciona os avisos de conteúdo e patrocínio abaixo do topo do player ao vivo, restaura as margens do painel de login da Twitch, escurece toda a barra na busca e corrige alinhamentos, miniaturas de VOD e textos nas Configurações."
+        }
+      }
+    ]
+  },
+  {
+    "version": "2.8.3",
+    "date": "2026-11-21",
+    "title": {
+      "it": "Twitch Retold v2.8.3 - Recupero audio nei VOD mutati, indicatori timeline e VOD 1440p",
+      "en": "Twitch Retold v2.8.3 - Muted VOD audio recovery, timeline markers & 1440p VODs",
+      "fr": "Twitch Retold v2.8.3 - Récupération audio sur les VOD coupées, repères timeline et VOD 1440p",
+      "de": "Twitch Retold v2.8.3 - Ton in stummen VODs zurückholen, Zeitleisten-Markierungen & 1440p-VODs",
+      "es": "Twitch Retold v2.8.3 - Recuperación de audio en VODs silenciados, barra de tiempo y VOD 1440p",
+      "pt": "Twitch Retold v2.8.3 - Recuperação de áudio em VODs mutados, marcações na barra e VODs 1440p"
+    },
+    "items": [
+      {
+        "type": "new",
+        "title": {
+          "it": "Recupero dell'audio nei VOD mutati",
+          "en": "Muted VOD audio recovery",
+          "fr": "Récupération de l'audio sur les VOD coupées",
+          "de": "Ton in stummgeschalteten VODs zurückholen",
+          "es": "Recuperación de audio en VODs silenciados",
+          "pt": "Recuperação de áudio em VODs mutados"
+        },
+        "desc": {
+          "it": "Addio ai lunghi tratti di silenzio sui VOD tagliati da Twitch per musica o copyright: quando un VOD ha parti mutate, il player controlla se l'audio originale è ancora raggiungibile sui server di Twitch o nella cache e lo fa sentire al posto del silenzio. Un breve avviso indica quanti minuti sono stati recuperati, nelle impostazioni del player c'è l'interruttore per accenderlo o spegnerlo al volo, e se un tratto non è più sui server si torna alla traccia mutata senza blocchi.",
+          "en": "No more long stretches of silence when Twitch mutes part of a VOD for copyrighted music: when a VOD has muted sections, the player checks whether the original audio is still reachable on Twitch's servers or CDN cache and plays that instead. A short notice tells you how many minutes were recovered, you can turn it on or off anytime from the VOD player settings, and if a stretch is no longer available it switches back to the muted track without stalling.",
+          "fr": "Fini les longs silences quand Twitch coupe une partie d'une VOD pour de la musique ou des droits d'auteur : dès qu'une VOD a des passages coupés, le lecteur vérifie si l'audio d'origine est encore accessible sur les serveurs Twitch ou le cache et le lit à la place. Un court message indique combien de minutes ont été récupérées, un interrupteur dans les paramètres du lecteur VOD permet d'activer ou couper la fonction quand tu veux, et si un passage n'est plus disponible, la lecture repasse sur la piste muette sans coupure.",
+          "de": "Schluss mit langen stillen Stellen, wenn Twitch Teile eines VODs wegen Musik oder Urheberrecht stummschaltet: Hat ein VOD stumme Abschnitte, prüft der Player, ob der Originalton noch auf den Twitch-Servern oder im Cache erreichbar ist, und spielt ihn stattdessen ab. Ein kurzer Hinweis zeigt die wiederhergestellten Minuten, in den VOD-Einstellungen gibt es einen Schalter dafür, und fehlt ein Abschnitt bereits, läuft das VOD ohne Hänger stumm weiter.",
+          "es": "Se acabaron los minutos en silencio cuando Twitch muta parte de un VOD por música o copyright: si un VOD tiene tramos silenciados, el reproductor comprueba si el audio original sigue en los servidores o la caché de Twitch y lo reproduce en su lugar. Un aviso rápido indica cuántos minutos se recuperaron, puedes activarlo o desactivarlo desde los ajustes del reproductor VOD y, si un tramo ya no está, vuelve a la pista silenciada sin cortes.",
+          "pt": "Chega de longos trechos mudos quando a Twitch silencia parte de um VOD por música ou direitos autorais: quando um VOD tem trechos silenciados, o player confere se o áudio original ainda está nos servidores ou no cache da Twitch e toca no lugar. Um aviso rápido mostra quantos minutos foram recuperados, dá para ligar ou desligar nas configurações do player VOD e, se um trecho não estiver mais lá, ele volta para a parte muda sem travar."
+        }
+      },
+      {
+        "type": "new",
+        "title": {
+          "it": "Parti mutate visibili sulla barra del tempo",
+          "en": "Muted & recovered parts on the VOD timeline",
+          "fr": "Passages coupés visibles sur la barre de lecture",
+          "de": "Stumme & wiederhergestellte Stellen auf der Zeitleiste",
+          "es": "Tramos silenciados visibles en la barra de tiempo",
+          "pt": "Trechos mutados visíveis na barra de tempo"
+        },
+        "desc": {
+          "it": "La barra di avanzamento del player VOD mostra in verde i tratti con audio recuperato e in rosso quelli rimasti mutati, con lo stato visibile anche nell'anteprima mentre scorri e nel pannello Shield.",
+          "en": "The VOD seek bar marks recovered sections in green and still-muted sections in red, and shows the audio status in the scrub preview tooltip and inside the Shield panel.",
+          "fr": "La barre de lecture du lecteur VOD affiche en vert les passages récupérés et en rouge ceux qui restent muets, avec le statut dans l'aperçu au survol et dans le panneau Shield.",
+          "de": "Die Fortschrittsleiste des VOD-Players zeigt wiederhergestellte Abschnitte grün und weiterhin stumme rot an – inklusive Status in der Vorschau beim Spulen und im Shield-Fenster.",
+          "es": "La barra de progreso del reproductor VOD marca en verde lo recuperado y en rojo lo que sigue silenciado, mostrando también el estado en la vista previa al mover la barra y en el panel Shield.",
+          "pt": "A barra do player VOD marca em verde o que foi recuperado e em vermelho o que continua mudo, mostrando o status também na prévia ao passar o cursor e no painel Shield."
+        }
+      },
+      {
+        "type": "new",
+        "title": {
+          "it": "VOD in 1440p (2K) e qualità reali sui VOD solo sub",
+          "en": "1440p (2K) VODs & real qualities on sub-only VODs",
+          "fr": "VOD en 1440p (2K) et vraies qualités sur les VOD abonnés",
+          "de": "1440p-(2K)-VODs & echte Qualitäten bei Abo-VODs",
+          "es": "VOD en 1440p (2K) y calidades reales en VOD solo sub",
+          "pt": "VODs em 1440p (2K) e qualidades reais em VODs só sub"
+        },
+        "desc": {
+          "it": "I VOD dei canali che trasmettono in 1440p offrono la sorgente 2K (dove HEVC è supportato), non scattano più sui segmenti fMP4 e sui VOD solo abbonati leggono l'elenco reale delle qualità e dei bitrate direttamente dallo storage.",
+          "en": "VODs from 1440p channels now expose the 2K source (where HEVC is supported), no longer stutter on fMP4 segments, and subscriber-only VODs read their real quality list and bitrates directly from storage.",
+          "fr": "Les VOD des chaînes diffusant en 1440p proposent désormais la source 2K (si HEVC est pris en charge), ne saccadent plus sur les segments fMP4, et les VOD réservées aux abonnés lisent leur vraie liste de qualités et de débits.",
+          "de": "VODs von 1440p-Kanälen bieten jetzt die 2K-Quelle (sofern HEVC unterstützt wird), ruckeln bei fMP4-Segmenten nicht mehr und lesen bei Abo-VODs die echte Qualitäts- und Bitratenliste direkt aus dem Speicher.",
+          "es": "Los VOD de canales que emiten en 1440p ofrecen ahora la fuente 2K (cuando hay soporte HEVC), ya no sufren tirones en segmentos fMP4 y los VOD solo sub leen su lista real de calidades y bitrates.",
+          "pt": "Os VODs de canais que transmitem em 1440p agora oferecem a fonte 2K (onde há suporte a HEVC), não engasgam mais em segmentos fMP4 e os VODs para inscritos leem sua lista real de qualidades e bitrates."
+        }
+      },
+      {
+        "type": "fix",
+        "title": {
+          "it": "Icona play/pausa del player VOD sempre sincronizzata",
+          "en": "VOD player play/pause icon always in sync",
+          "fr": "Icône lecture/pause du lecteur VOD toujours synchronisée",
+          "de": "Play/Pause-Symbol im VOD-Player immer synchron",
+          "es": "Icono de reproducción/pausa del player VOD siempre sincronizado",
+          "pt": "Ícone de reproduzir/pausar do player VOD sempre sincronizado"
+        },
+        "desc": {
+          "it": "All'avvio di un VOD il pulsante play/pausa e l'overlay centrale restano sempre allineati con lo stato reale del video, eliminando i casi in cui il video partiva mostrando ancora l'icona sbagliata.",
+          "en": "When a VOD starts playing, the play/pause button and center overlay now stay strictly synchronized with the actual video playback state, preventing the wrong icon from sticking after autoplay.",
+          "fr": "Au démarrage d'une VOD, le bouton lecture/pause et l'icône centrale restent désormais toujours alignés avec l'état réel de la vidéo.",
+          "de": "Beim Start eines VODs bleiben Play/Pause-Schaltfläche und Overlay nun immer exakt mit dem tatsächlichen Wiedergabezustand synchron.",
+          "es": "Al iniciarse un VOD, el botón de reproducción/pausa y el icono central se mantienen siempre sincronizados con el estado real del vídeo.",
+          "pt": "Ao iniciar um VOD, o botão de reproduzir/pausar e o ícone central permanecem sempre sincronizados com o estado real do vídeo."
+        }
+      }
+    ]
+  },
+  {
     "version": "2.8.2",
     "date": "2026-10-28",
-    "badge": "LATEST",
     "title": {
       "it": "Twitch Retold v2.8.2 - Aggiustamenti agli annunci",
       "en": "Twitch Retold v2.8.2 - Announcement fixes",
