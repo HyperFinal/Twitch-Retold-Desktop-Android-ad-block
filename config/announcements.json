@@ -163,6 +163,83 @@
       },
       "qr": true,
       "repeatEveryLaunches": 30
+    },
+    {
+      "id": "support-kofi-pixel",
+      "level": "info",
+      "priority": 60,
+      "repeatEveryLaunches": 30,
+      "platforms": [
+        "mobile"
+      ],
+      "art": "pixel-kofi",
+      "badge": {
+        "it": "Supporto Ko-fi",
+        "en": "Support on Ko-fi",
+        "fr": "Soutien Ko-fi",
+        "de": "Ko-fi Unterstützung",
+        "es": "Apoyo en Ko-fi",
+        "pt": "Apoio no Ko-fi"
+      },
+      "title": {
+        "it": "Ti piace Twitch Retold? Supporta il progetto",
+        "en": "Enjoying Twitch Retold? Support the project",
+        "fr": "Vous aimez Twitch Retold ? Soutenez le projet",
+        "de": "Gefällt dir Twitch Retold? Unterstütze das Projekt",
+        "es": "¿Te gusta Twitch Retold? Apoya el proyecto",
+        "pt": "Gosta do Twitch Retold? Apoie o projeto"
+      },
+      "body": {
+        "it": "Twitch Retold è gratuito e indipendente. Se l'app ti è utile ogni giorno, puoi offrire un caffè su Ko-fi per sostenere lo sviluppo continuo e la manutenzione: anche solo 1€ non è mai poco e fa un'enorme differenza!",
+        "en": "Twitch Retold is free and independent. If you enjoy using it every day, consider buying a coffee on Ko-fi to support continuous updates: even just 1€ is never too little and makes a huge difference!",
+        "fr": "Twitch Retold est gratuit et indépendant. Si vous appréciez l'application au quotidien, vous pouvez offrir un café sur Ko-fi : même 1 € n'est jamais trop peu et fait une énorme différence !",
+        "de": "Twitch Retold ist kostenlos und unabhängig. Wenn dir die App gefällt, kannst du einen Kaffee auf Ko-fi spendieren: selbst 1 € ist niemals zu wenig und macht einen riesigen Unterschied!",
+        "es": "Twitch Retold es gratuito e independiente. Si disfrutas de la app a diario, puedes invitarme a un café en Ko-fi: ¡incluso solo 1 € nunca es poco y marca una enorme diferencia!",
+        "pt": "O Twitch Retold é gratuito e independente. Se você usa o app diariamente, considere apoiar no Ko-fi: até mesmo 1€ nunca é pouco e faz uma diferença enorme!"
+      },
+      "bullets": {
+        "it": [
+          "100% gratuito e senza costi o abbonamenti",
+          "Sviluppo indipendente con aggiornamenti costanti",
+          "Anche solo 1€ aiuta a coprire i costi e il tempo dedicato"
+        ],
+        "en": [
+          "100% free with no paid subscriptions",
+          "Independent development and continuous updates",
+          "Even just 1€ helps cover maintenance and dedicated time"
+        ],
+        "fr": [
+          "100 % gratuit et sans abonnement payant",
+          "Développement indépendant et mises à jour continues",
+          "Même 1 € aide à couvrir les coûts et le temps consacré"
+        ],
+        "de": [
+          "100 % kostenlos und ohne Bezahl-Abos",
+          "Unabhängige Entwicklung und kontinuierliche Updates",
+          "Selbst 1 € hilft, Wartung und Entwicklungszeit zu decken"
+        ],
+        "es": [
+          "100 % gratuito y sin suscripciones de pago",
+          "Desarrollo independiente y actualizaciones continuas",
+          "Incluso 1 € ayuda a cubrir costes y tiempo dedicado"
+        ],
+        "pt": [
+          "100% gratuito e sem assinaturas pagas",
+          "Desenvolvimento independente e atualizações contínuas",
+          "Mesmo 1€ ajuda a cobrir custos e tempo dedicado"
+        ]
+      },
+      "cta": {
+        "label": {
+          "it": "Offri un caffè su Ko-fi",
+          "en": "Buy a coffee on Ko-fi",
+          "fr": "Offrir un café sur Ko-fi",
+          "de": "Kaffee auf Ko-fi spendieren",
+          "es": "Invitar a un café en Ko-fi",
+          "pt": "Pagar um café no Ko-fi"
+        },
+        "url": "https://ko-fi.com/hyperfinal"
+      }
     }
   ]
 }
